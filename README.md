@@ -49,7 +49,11 @@ Each lesson follows a **structured 7-step learning framework**:
 7. **Mini-Project (if applicable)** – A small automation or AI-related build.
 
 ---
+## 🤖 Advanced Learning Track
+📘 Explore the full AI Engineering journey → [AI Engineer Core Track](https://github.com/patckennedy/ai-engineer-core-track)
 
+
+---
 ## 🧩 Repository Structure - (Coming Soon)
 
 ---
